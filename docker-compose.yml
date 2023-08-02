@@ -1,0 +1,30 @@
+version: '3.4'
+services:
+  eventapi:
+    build:
+      context: .
+      dockerfile: ./eventApi/Dockerfile
+    depends_on:
+      - identityserver
+    ports:
+      - "5001:80"
+    
+  identityserver:
+    build:
+      context: .
+      dockerfile: ./IdentityServer/Dockerfile
+    ports:
+      - "5003:80" 
+    environment:
+      - VIRTUAL_HOST=sub.domain-example.com
+      - ASPNETCORE_ENVIRONMENT=Production
+        
+  client:
+    build:
+      context: .
+      dockerfile: ./Client/Dockerfile
+    depends_on:
+      - identityserver
+    ports:
+      - "5002:80"
+  

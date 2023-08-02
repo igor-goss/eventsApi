@@ -1,0 +1,17 @@
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\Client.exe
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\Client.deps.json
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\Client.runtimeconfig.json
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\Client.dll
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\Client.pdb
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\IdentityModel.dll
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.csproj.AssemblyReference.cache
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.AssemblyInfoInputs.cache
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.AssemblyInfo.cs
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.csproj.CopyComplete
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.dll
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\refint\Client.dll
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.pdb
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\Client.genruntimeconfig.cache
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\obj\Release\net7.0\ref\Client.dll

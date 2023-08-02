@@ -1,0 +1,6 @@
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\Client.exe
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\Client.dll
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\Client.deps.json
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\Client.runtimeconfig.json
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\Client.pdb
+C:\Кодинг\InternshipProject\IS6\quickstart\src\Client\bin\Release\net7.0\publish\IdentityModel.dll
